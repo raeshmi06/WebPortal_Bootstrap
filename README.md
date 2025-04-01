@@ -27,7 +27,7 @@ This is a responsive **Company Web Portal** build using **HTML, CSS, Bootstrap 3
 
 ### Screenshot 3
 
-![Third screenshot] (https://github.com/raeshmi06/WebPortal_Bootstrap/blob/master/ProjectOutputs/SS4.PNG?raw=true)
+![Third screenshot] (https://github.com/raeshmi06/WebPortal_Bootstrap/blob/master/ProjectOutputs/SS3.PNG?raw=true)
 
 ## Installation
 
